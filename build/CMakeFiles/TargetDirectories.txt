@@ -1,0 +1,5 @@
+/Users/nukie/Desktop/KMITL/project/Project/build/CMakeFiles/project.dir
+/Users/nukie/Desktop/KMITL/project/Project/build/CMakeFiles/edit_cache.dir
+/Users/nukie/Desktop/KMITL/project/Project/build/CMakeFiles/rebuild_cache.dir
+/Users/nukie/Desktop/KMITL/project/Project/build/CMakeFiles/project_autogen_timestamp_deps.dir
+/Users/nukie/Desktop/KMITL/project/Project/build/CMakeFiles/project_autogen.dir

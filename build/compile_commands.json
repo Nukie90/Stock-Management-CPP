@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/nukie/Desktop/KMITL/project/Project/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SVGWIDGETS_LIB -DQT_SVG_LIB -DQT_WIDGETS_LIB -I/Users/nukie/Desktop/KMITL/project/Project/build/project_autogen/include -I/Users/nukie/Desktop/KMITL/project/Project/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtSvgWidgets.framework/Headers -isystem /opt/homebrew/lib/QtSvg.framework/Headers -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/project.dir/project_autogen/mocs_compilation.cpp.o -c /Users/nukie/Desktop/KMITL/project/Project/build/project_autogen/mocs_compilation.cpp",
+  "file": "/Users/nukie/Desktop/KMITL/project/Project/build/project_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/project.dir/project_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/nukie/Desktop/KMITL/project/Project/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SVGWIDGETS_LIB -DQT_SVG_LIB -DQT_WIDGETS_LIB -I/Users/nukie/Desktop/KMITL/project/Project/build/project_autogen/include -I/Users/nukie/Desktop/KMITL/project/Project/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtSvgWidgets.framework/Headers -isystem /opt/homebrew/lib/QtSvg.framework/Headers -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/project.dir/main.cpp.o -c /Users/nukie/Desktop/KMITL/project/Project/main.cpp",
+  "file": "/Users/nukie/Desktop/KMITL/project/Project/main.cpp",
+  "output": "CMakeFiles/project.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/nukie/Desktop/KMITL/project/Project/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SVGWIDGETS_LIB -DQT_SVG_LIB -DQT_WIDGETS_LIB -I/Users/nukie/Desktop/KMITL/project/Project/build/project_autogen/include -I/Users/nukie/Desktop/KMITL/project/Project/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtSvgWidgets.framework/Headers -isystem /opt/homebrew/lib/QtSvg.framework/Headers -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/project.dir/src/item.cpp.o -c /Users/nukie/Desktop/KMITL/project/Project/src/item.cpp",
+  "file": "/Users/nukie/Desktop/KMITL/project/Project/src/item.cpp",
+  "output": "CMakeFiles/project.dir/src/item.cpp.o"
+},
+{
+  "directory": "/Users/nukie/Desktop/KMITL/project/Project/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SVGWIDGETS_LIB -DQT_SVG_LIB -DQT_WIDGETS_LIB -I/Users/nukie/Desktop/KMITL/project/Project/build/project_autogen/include -I/Users/nukie/Desktop/KMITL/project/Project/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtSvgWidgets.framework/Headers -isystem /opt/homebrew/lib/QtSvg.framework/Headers -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/project.dir/src/product.cpp.o -c /Users/nukie/Desktop/KMITL/project/Project/src/product.cpp",
+  "file": "/Users/nukie/Desktop/KMITL/project/Project/src/product.cpp",
+  "output": "CMakeFiles/project.dir/src/product.cpp.o"
+},
+{
+  "directory": "/Users/nukie/Desktop/KMITL/project/Project/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SVGWIDGETS_LIB -DQT_SVG_LIB -DQT_WIDGETS_LIB -I/Users/nukie/Desktop/KMITL/project/Project/build/project_autogen/include -I/Users/nukie/Desktop/KMITL/project/Project/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtSvgWidgets.framework/Headers -isystem /opt/homebrew/lib/QtSvg.framework/Headers -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/project.dir/src/service.cpp.o -c /Users/nukie/Desktop/KMITL/project/Project/src/service.cpp",
+  "file": "/Users/nukie/Desktop/KMITL/project/Project/src/service.cpp",
+  "output": "CMakeFiles/project.dir/src/service.cpp.o"
+},
+{
+  "directory": "/Users/nukie/Desktop/KMITL/project/Project/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SVGWIDGETS_LIB -DQT_SVG_LIB -DQT_WIDGETS_LIB -I/Users/nukie/Desktop/KMITL/project/Project/build/project_autogen/include -I/Users/nukie/Desktop/KMITL/project/Project/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtSvgWidgets.framework/Headers -isystem /opt/homebrew/lib/QtSvg.framework/Headers -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/project.dir/src/storage.cpp.o -c /Users/nukie/Desktop/KMITL/project/Project/src/storage.cpp",
+  "file": "/Users/nukie/Desktop/KMITL/project/Project/src/storage.cpp",
+  "output": "CMakeFiles/project.dir/src/storage.cpp.o"
+},
+{
+  "directory": "/Users/nukie/Desktop/KMITL/project/Project/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SVGWIDGETS_LIB -DQT_SVG_LIB -DQT_WIDGETS_LIB -I/Users/nukie/Desktop/KMITL/project/Project/build/project_autogen/include -I/Users/nukie/Desktop/KMITL/project/Project/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtSvgWidgets.framework/Headers -isystem /opt/homebrew/lib/QtSvg.framework/Headers -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/project.dir/src/invoice.cpp.o -c /Users/nukie/Desktop/KMITL/project/Project/src/invoice.cpp",
+  "file": "/Users/nukie/Desktop/KMITL/project/Project/src/invoice.cpp",
+  "output": "CMakeFiles/project.dir/src/invoice.cpp.o"
+}
+]

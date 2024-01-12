@@ -1,0 +1,20 @@
+# ninja log v5
+38	126	1685119424519517831	CMakeFiles/project.dir/project_autogen/mocs_compilation.cpp.o	6c98fe7b05b56433
+10	28	1685302390190009900	project_autogen/mocs_compilation.cpp	a1b5d81d30b5b3fc
+29	1088	1685302391248510885	CMakeFiles/project.dir/src/storage.cpp.o	7a37d0ce4a6118ad
+10	28	1685302390190009900	/Users/nukie/Desktop/KMITL/project/Project/build/project_autogen/mocs_compilation.cpp	a1b5d81d30b5b3fc
+10	28	1685302390190009900	/Users/nukie/Desktop/KMITL/project/Project/build/project_autogen/timestamp	a1b5d81d30b5b3fc
+28	577	1685121671420153770	CMakeFiles/project.dir/main.cpp.o	de0857280300f36e
+10	28	1685302390190009900	project_autogen/timestamp	a1b5d81d30b5b3fc
+39	553	1685119424947819037	CMakeFiles/project.dir/src/item.cpp.o	18e7284ded9fd9d6
+39	589	1685119424983946082	CMakeFiles/project.dir/src/service.cpp.o	5514a8afb6851cbd
+39	592	1685119424988285962	CMakeFiles/project.dir/src/product.cpp.o	767c83df1136b129
+27	509	1685122607782020993	CMakeFiles/project.dir/src/invoice.cpp.o	932ed1996e31a763
+1088	1206	1685302391366391129	project	1b75cd674c05e987
+9	26	1685440826142202181	project_autogen/timestamp	a1b5d81d30b5b3fc
+9	26	1685440826142202181	project_autogen/mocs_compilation.cpp	a1b5d81d30b5b3fc
+9	26	1685440826142202181	/Users/nukie/Desktop/KMITL/project/Project/build/project_autogen/timestamp	a1b5d81d30b5b3fc
+9	26	1685440826142202181	/Users/nukie/Desktop/KMITL/project/Project/build/project_autogen/mocs_compilation.cpp	a1b5d81d30b5b3fc
+28	472	1685440826586301277	CMakeFiles/project.dir/src/invoice.cpp.o	932ed1996e31a763
+27	472	1685440826587395897	CMakeFiles/project.dir/main.cpp.o	de0857280300f36e
+472	608	1685440826721638450	project	1b75cd674c05e987

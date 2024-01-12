@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1000" height="750" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<line x1="50" y1="700" x2="950" y2="700" stroke="black" stroke-width="2" />
+<line x1="50" y1="50" x2="50" y2="700" stroke="black" stroke-width="2" />
+<text x="500" y="745" font-family="Arial" font-size="12" text-anchor="middle">Total Sales</text>
+<text transform="rotate(-90)" x="-375" y="20" font-family="Arial" font-size="12" text-anchor="middle">Item</text>
+<text x="275" y="109.167" font-family="Arial" font-size="10" text-anchor="middle"> $10 each</text>
+<rect x="50" y="114.167" width="440" height="585.833" fill="rgb(202,84,240)" />
+<text x="275" y="730" font-family="Arial" font-size="10" text-anchor="middle">$2200 Total</text>
+<text x="275" y="715" font-family="Arial" font-size="12" text-anchor="middle">pen</text>
+<text x="725" y="55" font-family="Arial" font-size="10" text-anchor="middle"> $10 each</text>
+<rect x="500" y="60" width="440" height="640" fill="rgb(201,4,87)" />
+<text x="725" y="730" font-family="Arial" font-size="10" text-anchor="middle">$2400 Total</text>
+<text x="725" y="715" font-family="Arial" font-size="12" text-anchor="middle">pencil</text>
+</svg>
